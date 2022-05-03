@@ -1,2 +1,2 @@
 # OpenCV
-#### 예제 연습하면서 사용된 jpg, png, mp4 등 영상들은 용량이 너무 커서 담을 수 없으므로 각자의 영상을 이용해 적용하시면 됩니다.
+#### The images such as jpg, png, and mp4 used during the example practice are too large to contain, so you can use your own videos to apply them.
